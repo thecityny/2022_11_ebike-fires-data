@@ -1,6 +1,6 @@
 
-
-This repository contains files related to the data that THE CITY used in writing the story – "Where and Why E-Bikes Catch Fire in NYC". https://www.thecity.nyc/2022/11/21/23468257/ebikes-fires-lithium-ion-batteries-delivery-workers
+This repository has files containing details of structural fires caused by exploding e-bike batteries since Jan, 31, 2022. 
+THE CITY analyzed this data and was used in writing the story – <a href="https://www.thecity.nyc/2022/11/21/23468257/ebikes-fires-lithium-ion-batteries-delivery-workers">"Where and Why E-Bikes Catch Fire in NYC"</a>. 
 
 In response to a FOIL request, THE CITY's investigative reporter Greg Smith received two PDF files from the New York City Fire Department. The files provided details about 294 structural fires caused by exploding lithium-ion batteries between Jan. 1, 2021 and Nov. 15, 2022. The details included the date, time, address, borough and ZIP code of each of the e-bike fires recorded in the 23 months.
 
