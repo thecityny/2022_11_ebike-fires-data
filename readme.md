@@ -7,7 +7,7 @@ In response to a FOIL request, THE CITY's investigative reporter Greg Smith rece
 <code>Lithium Addresses 2021.pdf</code> lists 2021 e-bike fires <br>
 <code>Lithium Addresses 2022.pdf</code> lists year-to-date 2022 e-bike fires
 
-THE CITY converted these PDFs to CSVs which were then combined into a single file. We used [geocodio.io](https://www.geocod.io/) to generate coordinates for each address. The address conversions with less than 100% accuracy were manually corrected by THE CITY's reporters using <a href= "https://earth.google.com/web/search/Corona,+Queens,+NY/@40.74087105,-73.85709825,10.93805365a,3981.55465771d,35y,323.92901598h,45t,0r/data=Cn0aUxJNCiUweDg5YzI1ZmNjMzYyNjk0MDE6MHg1NGRkNmFiZTdhNjdiMTUwGZU9rrJbX0RAIbOsoA5Qd1LAKhJDb3JvbmEsIFF1ZWVucywgTlkYAiABIiYKJAn3KufJqXNEQBHRelz7Nt4pQBk4yFSeuwRjQCFdp-2JuO1gwA">earth.google.com</a> 
+THE CITY converted these PDFs to CSVs which were then combined into a single file. We used [geocodio.io](https://www.geocod.io/) to generate coordinates for each address. The address conversions with less than 100% accuracy were manually corrected by THE CITY's reporters using <a href= "https://earth.google.com/web/search/Corona,+Queens,+NY/@40.74087105,-73.85709825,10.93805365a,3981.55465771d,35y,323.92901598h,45t,0r/data=Cn0aUxJNCiUweDg5YzI1ZmNjMzYyNjk0MDE6MHg1NGRkNmFiZTdhNjdiMTUwGZU9rrJbX0RAIbOsoA5Qd1LAKhJDb3JvbmEsIFF1ZWVucywgTlkYAiABIiYKJAn3KufJqXNEQBHRelz7Nt4pQBk4yFSeuwRjQCFdp-2JuO1gwA">earth.google.com</a>. 
 
 THE CITY mapped the coordinates to highlight the geographic density of these incidents.
 
