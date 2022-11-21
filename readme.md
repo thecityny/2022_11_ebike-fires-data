@@ -13,3 +13,4 @@ THE CITY mapped the coordinates to highlight the geographic density of these inc
 
 _If you decide to use this data, we encourage you to use the following attribution: “Data obtained by THE CITY from New York City Fire Department"_
 
+In case of questions, send us an email at data@thecity.nyc
