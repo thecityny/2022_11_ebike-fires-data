@@ -11,6 +11,8 @@ THE CITY converted these PDFs to CSVs which were then combined into a single fil
 
 THE CITY mapped the coordinates to highlight the geographic density of these incidents.
 <hr>
-_If you decide to use this data, we encourage you to use the following attribution: “Data obtained by THE CITY from New York City Fire Department"_
+
+_If you decide to use this data, we encourage you to use the following attribution: “Data obtained by THE CITY from New York City Fire Department"
+_
 
 In case of questions, send us an email at data@thecity.nyc
